@@ -64,7 +64,6 @@ export default function HeroSection() {
                         repeat={Infinity}
                         style={{ display: 'inline-block' }}
                         cursor
-                        cursorStyle="|"
                     />
                 </motion.div>
 
