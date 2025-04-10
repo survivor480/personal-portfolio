@@ -4,27 +4,27 @@ import { SiLeetcode } from 'react-icons/si'
 export const SOCIAL_LINKS = [
   {
     name: 'GitHub',
-    url: 'https://github.com/keshavkumarjha',
+    url: 'https://github.com/survivor480',
     icon: FaGithub,
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/keshavkumarjha',
+    url: 'https://www.linkedin.com/in/ks48/',
     icon: FaLinkedin,
   },
   {
     name: 'Twitter',
-    url: 'https://twitter.com/keshavkumarjha',
+    url: 'https://x.com/KeshavJ56468905',
     icon: FaTwitter,
   },
   {
     name: 'LeetCode',
-    url: 'https://leetcode.com/keshavkumarjha',
+    url: 'https://leetcode.com/u/survivor_48/',
     icon: SiLeetcode,
   },
   {
     name: 'HackerRank',
-    url: 'https://hackerrank.com/keshavkumarjha',
+    url: 'https://www.hackerrank.com/profile/survivor_48',
     icon: FaHackerrank,
   },
 ]
@@ -69,7 +69,7 @@ export const PROJECTS = [
   {
     title: 'Sound Classification with ESP32S3',
     description: 'A system that classifies sounds into 6 different categories using ESP32 microcontroller',
-    image: '/images/sound-classification.jpg',
+    image: '/images/sound-classification.png',
     tags: ['IoT', 'Machine Learning', 'ESP32'],
     links: [
       { type: 'view', url: '#' },
